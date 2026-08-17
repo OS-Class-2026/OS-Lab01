@@ -1,4 +1,4 @@
-# COE67-XXX: Operating Systems - Lab 01
+# COE67-222: Operating Systems - Lab 01
 
 Welcome to Lab 1: Cloud OS Environment and System Profiling.
 
